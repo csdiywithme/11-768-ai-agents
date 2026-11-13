@@ -1,0 +1,512 @@
+{
+  "date": "2026-11-13",
+  "site_asset": "https://www.cmu-agents.com/assets/index-CP4uKDdk.js",
+  "site_asset_sha256": "7b6c8b18714c28c260786d9774ea092e0e3244b07d5c7f0c4bf42275eaf92d69",
+  "schedule_rows": 30,
+  "lectures": [
+    {
+      "number": 1,
+      "date": "Tue, Aug 25",
+      "title": "Course Overview: What Is an Agent?",
+      "module": "Introduction and Agent Capabilities",
+      "slides": "https://www.cmu-agents.com/slides/lecture-01-agents.pdf",
+      "recording": "https://www.youtube.com/watch?v=UwfjzyLnvMg&list=PLSN0qpDfUvTM&index=1",
+      "readings_count": 3,
+      "references_count": 0,
+      "pdf_pages": 39,
+      "pdf_sha256": "16ad94b7cea06da50ff1736fba9ba3afcbb753fdea51c57b8df1ae3f9a7dd26c",
+      "pdf_text_pages": 39,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 2,
+      "date": "Thu, Aug 27",
+      "title": "Agent Capabilities 1: Tool Use",
+      "module": "Introduction and Agent Capabilities",
+      "slides": "https://www.cmu-agents.com/slides/lecture-02-tool-use.pdf",
+      "recording": "https://www.youtube.com/watch?v=jXChFB4JSyw&list=PLSN0qpDfUvTM&index=2",
+      "readings_count": 4,
+      "references_count": 26,
+      "pdf_pages": 60,
+      "pdf_sha256": "671b9d0c849150aa9b5d95a9655b892dbe5fa2d6fc7a6c704c0f8e3f876e74ad",
+      "pdf_text_pages": 60,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 3,
+      "date": "Tue, Sep 1",
+      "title": "Agent Capabilities 2: Context Management for Long-Context Agents",
+      "module": "Introduction and Agent Capabilities",
+      "slides": "https://www.cmu-agents.com/slides/lecture-03-long-context.pdf",
+      "recording": "https://www.youtube.com/watch?v=AiwCCvFW1uE&list=PLSN0qpDfUvTM&index=3",
+      "readings_count": 0,
+      "references_count": 42,
+      "pdf_pages": 54,
+      "pdf_sha256": "cd08b3463430b78a144a24de611ec9a58befae32c5d2109471d89934fbf2f926",
+      "pdf_text_pages": 54,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 4,
+      "date": "Thu, Sep 3",
+      "title": "Agent Capabilities 3: Skills and Memory",
+      "module": "Introduction and Agent Capabilities",
+      "slides": "https://www.cmu-agents.com/slides/lecture-04-memory-and-skills.pdf",
+      "recording": "https://www.youtube.com/watch?v=6zigF2a-2Pw&list=PLSN0qpDfUvTM&index=4",
+      "readings_count": 6,
+      "references_count": 19,
+      "pdf_pages": 46,
+      "pdf_sha256": "15165b0ab74f7ebe2704bbfbc341f2273d27e66041f3bfedf2c887c02e6a549d",
+      "pdf_text_pages": 46,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 5,
+      "date": "Tue, Sep 8",
+      "title": "Agent Capabilities 4: Planning, Task Decomposition, and Multi-Agent Coordination",
+      "module": "Introduction and Agent Capabilities",
+      "slides": "https://www.cmu-agents.com/slides/lecture-05-planning.pdf",
+      "recording": "https://www.youtube.com/watch?v=S8v-dR4s29M&list=PLSN0qpDfUvTM&index=5",
+      "readings_count": 10,
+      "references_count": 26,
+      "pdf_pages": 48,
+      "pdf_sha256": "32271dff69a87f555fe82a192d5cd20ac058b3266bc965e8a5411897781f8adf",
+      "pdf_text_pages": 48,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 6,
+      "date": "Thu, Sep 10",
+      "title": "Domains 1: Coding Agents",
+      "module": "Domains",
+      "slides": "https://www.cmu-agents.com/slides/lecture-06-coding-agents.pdf",
+      "recording": "https://www.youtube.com/watch?v=1BWeH1oOM7k&list=PLSN0qpDfUvTM&index=6",
+      "readings_count": 0,
+      "references_count": 41,
+      "pdf_pages": 82,
+      "pdf_sha256": "9f764df75b573499d090ed71d19a7b8bbfa01ad7059a440ca1af00111b480b51",
+      "pdf_text_pages": 82,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 7,
+      "date": "Tue, Sep 15",
+      "title": "Computer Use Agents",
+      "module": "Domains",
+      "slides": "https://www.cmu-agents.com/slides/lecture-07-computer-use-agents.pdf",
+      "recording": "https://www.youtube.com/watch?v=jwGluLrrqjQ&list=PLSN0qpDfUvTM&index=7",
+      "readings_count": 6,
+      "references_count": 8,
+      "pdf_pages": 94,
+      "pdf_sha256": "444b4f2188fc62a50675ec3ef43896905437bbd95f3429879d2dfcc14929473c",
+      "pdf_text_pages": 94,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 8,
+      "date": "Thu, Sep 17",
+      "title": "Training 1: Supervised Fine-Tuning (SFT)",
+      "module": "Training Methods",
+      "slides": "https://www.cmu-agents.com/slides/lecture-08-sft.pdf",
+      "recording": "https://www.youtube.com/watch?v=O3HSU0AoILc&list=PLSN0qpDfUvTM&index=8",
+      "readings_count": 0,
+      "references_count": 19,
+      "pdf_pages": 49,
+      "pdf_sha256": "1598a8bd9784ec044f89b8951af52bb2f80c0236b73aada0ca4cc3038049c4e3",
+      "pdf_text_pages": 49,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 9,
+      "date": "Tue, Sep 22",
+      "title": "Training 2: Reinforcement Learning Basics",
+      "module": "Training Methods",
+      "slides": "https://www.cmu-agents.com/slides/lecture-09-rl-basics.pdf",
+      "recording": "https://www.youtube.com/watch?v=paAcPaaYZGM&list=PLSN0qpDfUvTM&index=9",
+      "readings_count": 4,
+      "references_count": 2,
+      "pdf_pages": 46,
+      "pdf_sha256": "c8724ca6fbadb2afef38d627bbab2e09f8e8077fb1bb4dc0a4a078fb8669c1ca",
+      "pdf_text_pages": 46,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 10,
+      "date": "Thu, Sep 24",
+      "title": "Domains 3: Deep Research Agents",
+      "module": "Domains",
+      "slides": "https://www.cmu-agents.com/slides/lecture-10-deep-research-agents.pdf",
+      "recording": null,
+      "readings_count": 6,
+      "references_count": 18,
+      "pdf_pages": 124,
+      "pdf_sha256": "b3f9fafe7d586394efe3880d026c653b8b079151ffc75607d6aa7fab9c9ee259",
+      "pdf_text_pages": 124,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 11,
+      "date": "Tue, Sep 29",
+      "title": "Training 3: Advanced RL Algorithms",
+      "module": "Training Methods",
+      "slides": "https://www.cmu-agents.com/slides/lecture-11-rl-advanced.pdf",
+      "recording": null,
+      "readings_count": 0,
+      "references_count": 25,
+      "pdf_pages": 58,
+      "pdf_sha256": "e2f23de9092424cde3a72805e3b343d261a2e219518871843e719c4dbe5cc968",
+      "pdf_text_pages": 58,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 12,
+      "date": "Thu, Oct 1",
+      "title": "Training 4: RL Systems",
+      "module": "Training Methods",
+      "slides": "https://www.cmu-agents.com/slides/lecture-12-rl-systems.pdf",
+      "recording": null,
+      "readings_count": 0,
+      "references_count": 0,
+      "pdf_pages": 43,
+      "pdf_sha256": "15a062df1513c0710e4e3bd8cfa247d4b131b966faadc32e5101561c322a8a13",
+      "pdf_text_pages": 43,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 13,
+      "date": "Tue, Oct 6",
+      "title": "Safety 1: Agent Safety",
+      "module": "Agent Safety",
+      "slides": "https://www.cmu-agents.com/slides/lecture-13-agent-safety.pdf",
+      "recording": null,
+      "readings_count": 0,
+      "references_count": 30,
+      "pdf_pages": 43,
+      "pdf_sha256": "6a1efa5cf21ab696750710c6aa77cba640b9da548b91eba2188001a7e64e611c",
+      "pdf_text_pages": 43,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 14,
+      "date": "Thu, Oct 8",
+      "title": "Frameworks 1: OpenHands",
+      "module": "Agent Frameworks",
+      "slides": "https://www.cmu-agents.com/slides/lecture-14-openhands.pdf",
+      "recording": null,
+      "readings_count": 0,
+      "references_count": 20,
+      "pdf_pages": 44,
+      "pdf_sha256": "1b4626e1b25b6eaac463e8b82360c9a7b4ffc34f6ccc4b9ab162761d5427a60a",
+      "pdf_text_pages": 44,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 15,
+      "date": "Tue, Oct 20",
+      "title": "Frameworks 2: Orchestration and Monitoring",
+      "module": "Agent Frameworks",
+      "slides": "https://www.cmu-agents.com/slides/lecture-15-orchestration-and-monitoring.pdf",
+      "recording": null,
+      "readings_count": 4,
+      "references_count": 24,
+      "pdf_pages": 39,
+      "pdf_sha256": "93b54a49f5202d4420e40d0223cd80472ae2875323715a910f476f94812fd73c",
+      "pdf_text_pages": 39,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 16,
+      "date": "Thu, Oct 22",
+      "title": "Safety 2: Observability and Monitoring",
+      "module": "Frameworks and Safety",
+      "slides": null,
+      "recording": null,
+      "readings_count": 1,
+      "references_count": 0
+    },
+    {
+      "number": 17,
+      "date": "Tue, Oct 27",
+      "title": "Agents and the Future of Work",
+      "module": "Interaction and Projects",
+      "slides": "https://www.cmu-agents.com/slides/2026-10-27-zora-wang.pdf",
+      "recording": null,
+      "readings_count": 5,
+      "references_count": 31,
+      "pdf_pages": 62,
+      "pdf_sha256": "e07e9da87a97680981fca5b3ba766a7c620c83e8c1515fb75a798fe5812b79b1",
+      "pdf_text_pages": 62,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 18,
+      "date": "Thu, Oct 29",
+      "title": "Interaction 1: Multi-Agent Interaction",
+      "module": "Interaction and Projects",
+      "slides": "https://www.cmu-agents.com/slides/lecture-18-multi-agent-systems.pdf",
+      "recording": null,
+      "readings_count": 6,
+      "references_count": 17,
+      "pdf_pages": 44,
+      "pdf_sha256": "5da3102180a75b0c8ad6c849ef497e6cc165ebcd77b4428ce8a177de6ebdc93c",
+      "pdf_text_pages": 44,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 19,
+      "date": "Tue, Nov 10",
+      "title": "Interaction 2: Human-Agent Interaction",
+      "module": "Interaction and Projects",
+      "slides": null,
+      "recording": null,
+      "readings_count": 0,
+      "references_count": 0
+    },
+    {
+      "number": 20,
+      "date": "Thu, Nov 12",
+      "title": "Search 1: Reranking and Critic Models",
+      "module": "Search and Inference",
+      "slides": "https://www.cmu-agents.com/slides/lecture-20-search-basics.pdf",
+      "recording": null,
+      "readings_count": 4,
+      "references_count": 23,
+      "pdf_pages": 31,
+      "pdf_sha256": "7ef0f29b2c1067258914c786f088326013f423c17a284ffe33069c7983a38c0f",
+      "pdf_text_pages": 31,
+      "pdf_status": "已提取文字与链接"
+    },
+    {
+      "number": 21,
+      "date": "Tue, Nov 17",
+      "title": "Search 2: Tree Search",
+      "module": "Search and Inference",
+      "slides": null,
+      "recording": null,
+      "readings_count": 0,
+      "references_count": 0
+    },
+    {
+      "number": 22,
+      "date": "Thu, Nov 19",
+      "title": "Guest Lecture",
+      "module": "Advanced Topics",
+      "slides": null,
+      "recording": null,
+      "readings_count": 0,
+      "references_count": 0
+    },
+    {
+      "number": 23,
+      "date": "Tue, Nov 24",
+      "title": "Guest Lecture",
+      "module": "Advanced Topics",
+      "slides": null,
+      "recording": null,
+      "readings_count": 0,
+      "references_count": 0
+    }
+  ],
+  "assignment_roots": [
+    {
+      "title": "Assignment 1 · Harness",
+      "dueDate": "Mon, Sep 14, 2026",
+      "dueDateIsTentative": false,
+      "url": "https://github.com/cmu-agents/assignment-1",
+      "summary": "Build the harness infrastructure for a coding agent on top of an open-source LLM."
+    },
+    {
+      "title": "Assignment 2 · Eval",
+      "dueDate": "Thu, Oct 1, 2026",
+      "dueDateIsTentative": false,
+      "url": "https://github.com/cmu-agents/assignment-2",
+      "summary": "Design the evaluation framework needed to measure agent correctness and functionality."
+    },
+    {
+      "title": "Assignment 3 · Training",
+      "dueDate": "Thu, Oct 29, 2026",
+      "dueDateIsTentative": false,
+      "url": "https://github.com/cmu-agents/assignment-3",
+      "summary": "Implement the training procedures used to adapt and improve the agent."
+    },
+    {
+      "title": "Half-semester research project",
+      "summary": "Teams of 2–4 explore an advanced topic in LLM agents, participate in Project Hours, present a poster, and submit a report.",
+      "projectPage": true
+    }
+  ],
+  "assignment_reference_scope": [
+    {
+      "assignment": 1,
+      "commit": "67498d87e36f7b45a2a4ce82d65d1139fb6a51c0",
+      "files_with_reference_scan": [
+        ".gitmodules",
+        "ASSIGNMENT.md",
+        "README.md",
+        "tasks/README.md",
+        "tasks/chess-skills/select-move/SKILL.md",
+        "tasks/chess-terminal-move/problem_statement.md",
+        "tasks/code-skills/submit-task/SKILL.md",
+        "tasks/swebench/django__django-15368/problem_statement.md"
+      ]
+    },
+    {
+      "assignment": 2,
+      "commit": "f609e76d2efd302b4b8babee06c5592899010b8b",
+      "files_with_reference_scan": [
+        "ASSIGNMENT.md",
+        "README.md",
+        "harbor/README.md",
+        "harbor/TROUBLESHOOTING.md",
+        "harbor/example/README.md",
+        "harbor/example/instruction.md",
+        "harbor/reference/README.md",
+        "harbor/template/instruction.md",
+        "infrastructure/README.md",
+        "report_template.tex"
+      ]
+    },
+    {
+      "assignment": 3,
+      "commit": "88d1b1fa2aea58938d6d251847ce5559c4ac6558",
+      "files_with_reference_scan": [
+        "ASSIGNMENT.md",
+        "README.md",
+        "data/README.md",
+        "skyrl_tinker_modal/README.md"
+      ]
+    }
+  ],
+  "reference_occurrences": {
+    "schedule-slides": 18,
+    "schedule-recording": 9,
+    "schedule-readings": 59,
+    "slide-reference": 912,
+    "schedule-references": 371,
+    "assignment": 3,
+    "project": 1,
+    "policy": 1,
+    "project-reference": 2,
+    "assignment-reference": 35,
+    "official-playlist-recording": 14,
+    "slide-printed-arxiv-id": 4,
+    "slide-printed-title": 34
+  },
+  "distinct_urls": 649,
+  "distinct_identities": 634,
+  "official_video_playlist": {
+    "url": "https://www.youtube.com/playlist?list=PLSN0qpDfUvTM",
+    "playlist_page_sha256": "d7c350a56cddcd8af2c1e3dee15571982814777d4e1fe4cb59d852d9fb26b7da",
+    "entries": [
+      {
+        "lecture": 1,
+        "title": "CMU AI Agents 2026: 1. What are Agents and How Do They Work?",
+        "url": "https://www.youtube.com/watch?v=UwfjzyLnvMg",
+        "id": "UwfjzyLnvMg"
+      },
+      {
+        "lecture": 2,
+        "title": "CMU AI Agents 2026: 2. Tool Use for Language Model Agents",
+        "url": "https://www.youtube.com/watch?v=jXChFB4JSyw",
+        "id": "jXChFB4JSyw"
+      },
+      {
+        "lecture": 3,
+        "title": "CMU AI Agents 2026: 3. Long Context Modeling for Agents",
+        "url": "https://www.youtube.com/watch?v=AiwCCvFW1uE",
+        "id": "AiwCCvFW1uE",
+        "publisher": "Graham Neubig",
+        "length_seconds": 4539
+      },
+      {
+        "lecture": 4,
+        "title": "CMU AI Agents 2026: 4. Memory and Skills for Agents",
+        "url": "https://www.youtube.com/watch?v=6zigF2a-2Pw",
+        "id": "6zigF2a-2Pw"
+      },
+      {
+        "lecture": 5,
+        "title": "CMU AI Agents 2026: 5. Planning, Task Decomposition, and Multi-Agent Coordination",
+        "url": "https://www.youtube.com/watch?v=S8v-dR4s29M",
+        "id": "S8v-dR4s29M"
+      },
+      {
+        "lecture": 6,
+        "title": "CMU AI Agents 2026: 6. Agents for Coding and Software Development",
+        "url": "https://www.youtube.com/watch?v=1BWeH1oOM7k",
+        "id": "1BWeH1oOM7k",
+        "publisher": "Graham Neubig",
+        "length_seconds": 4728
+      },
+      {
+        "lecture": 7,
+        "title": "CMU AI Agents 2026: 7. Computer Use Agents",
+        "url": "https://www.youtube.com/watch?v=jwGluLrrqjQ",
+        "id": "jwGluLrrqjQ",
+        "publisher": "Graham Neubig",
+        "length_seconds": 4465
+      },
+      {
+        "lecture": 8,
+        "title": "CMU AI Agents 2026: 8. Supervised Fine Tuning",
+        "url": "https://www.youtube.com/watch?v=O3HSU0AoILc",
+        "id": "O3HSU0AoILc",
+        "publisher": "Graham Neubig",
+        "length_seconds": 3899
+      },
+      {
+        "lecture": 9,
+        "title": "CMU AI Agents 2026: 9. Reinforcement Learning Basics",
+        "url": "https://www.youtube.com/watch?v=paAcPaaYZGM",
+        "id": "paAcPaaYZGM"
+      },
+      {
+        "lecture": 10,
+        "title": "CMU AI Agents 2026: 10. Deep Research",
+        "url": "https://www.youtube.com/watch?v=nKUBrXFQBUM",
+        "id": "nKUBrXFQBUM",
+        "publisher": "Graham Neubig",
+        "length_seconds": 4345
+      },
+      {
+        "lecture": 11,
+        "title": "CMU AI Agents 2026: 11. Advanced RL Algorithms",
+        "url": "https://www.youtube.com/watch?v=jKx7_fOZRzg",
+        "id": "jKx7_fOZRzg",
+        "publisher": "Graham Neubig",
+        "length_seconds": 4095
+      },
+      {
+        "lecture": 12,
+        "title": "CMU AI Agents 2026: 12. RL Systems",
+        "url": "https://www.youtube.com/watch?v=dwR6NP9nI-8",
+        "id": "dwR6NP9nI-8",
+        "publisher": "Graham Neubig",
+        "length_seconds": 3986
+      },
+      {
+        "lecture": 13,
+        "title": "CMU AI Agents 2026: 13. Agentic Safety",
+        "url": "https://www.youtube.com/watch?v=Mbonnq-PUGM",
+        "id": "Mbonnq-PUGM",
+        "publisher": "Graham Neubig",
+        "length_seconds": 3250
+      },
+      {
+        "lecture": 14,
+        "title": "CMU AI Agents 2026: 14. Lessons from Building OpenHands",
+        "url": "https://www.youtube.com/watch?v=VAzZkT68h2Q",
+        "id": "VAzZkT68h2Q",
+        "publisher": "Graham Neubig",
+        "length_seconds": 4159
+      }
+    ],
+    "rechecked_date": "2026-11-13",
+    "rechecked_page_sha256": "e8f7c96430a3eb65481a1e997c8c332a0b54d4052c237f4274ed48025f73a68a"
+  },
+  "prior_site_snapshot": {
+    "date": "2026-11-12",
+    "site_asset": "https://www.cmu-agents.com/assets/index-BoEP-SNx.js",
+    "site_asset_sha256": "15934bab647184610a472664b3e748f86e9a4bc17416fdbd064c07ebd58ef2fa"
+  }
+}
